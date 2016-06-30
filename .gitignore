@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse Files #
+.settings/*
+.classpath
+.project
+
+#Build target
+target/*
+dependency-reduced-pom.xml
